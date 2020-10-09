@@ -1,1 +1,1 @@
-# Furkan_balikci-Hafta-1 Ödev
+# Furkan_balikci-Kodluyoruz Veri Bilimi Ödevleri
